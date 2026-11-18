@@ -2,3 +2,4 @@ Olá,
 
 Este é o meu primeiro ficheiro Git
 Estou a aprender Git
+Linha adicionada após GitHub.
